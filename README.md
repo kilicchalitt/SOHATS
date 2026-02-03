@@ -1,4 +1,4 @@
-# SOHATS - Sağlık Ocağı Otomasyon Sistemi
+# SOHATS - Sağlık Ocağı Hasta Takip Sistemi
 
 Bu proje, bir sağlık kuruluşunun günlük operasyonel süreçlerini (hasta kayıt, poliklinik sevkleri ve finansal takip) dijital ortamda yönetmek amacıyla geliştirilmiş kapsamlı bir masaüstü otomasyon sistemidir.
 
